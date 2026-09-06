@@ -1,0 +1,6 @@
+{
+  "name": "Orbit AI",
+  "description": "Smart AI-powered lost and found management system with multimodal item matching, OCR document extraction, location filtering, instant match alerts, ownership verification, QR asset tags, and secure chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
